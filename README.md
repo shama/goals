@@ -8,11 +8,11 @@ Posting some goals public in an effort to shame myself into finishing them.
 
 - [ ] Upload 52 new videos to https://www.youtube.com/user/kylerobinsonyoung
 - [ ] Finish first draft of novel
-- [ ] Finish new version of dontkry.com
+- [x] Finish new version of dontkry.com
 - [ ] Release a Rust OSS project
 - [ ] Release secret twitter game
 - [ ] Contribute to http://hospitalrun.io/
-- [ ] Brew more beer
+- [x] Brew more beer
 - [ ] Build a for profit project
-- [ ] Try coding more using composition instead of inheritance
+- [x] Try coding more using composition instead of inheritance
 - [ ] Release an Atom package
